@@ -1,0 +1,9 @@
+# OS / 编辑器
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# 临时文件
+*.tmp
+_*_extract*.txt
